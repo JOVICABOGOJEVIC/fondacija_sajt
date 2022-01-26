@@ -3969,7 +3969,7 @@ html[dir="rtl"] #header .tip-light:before {
 }
 
 #header .header-btn-collapse-nav {
-	background: #0088CC;
+	background: brown;
 }
 
 @media (min-width: 992px) {
