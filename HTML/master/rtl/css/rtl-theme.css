@@ -2085,6 +2085,7 @@ html.sticky-header-enabled.sticky-header-active #header .header-logo-sticky-chan
 
 	#header .header-nav.header-nav-links nav > ul > li:hover > a:before, #header .header-nav.header-nav-links nav > ul > li.open > a:before, #header .header-nav.header-nav-links nav > ul > li.accessibility-open > a:before, #header .header-nav.header-nav-line nav > ul > li:hover > a:before, #header .header-nav.header-nav-line nav > ul > li.open > a:before, #header .header-nav.header-nav-line nav > ul > li.accessibility-open > a:before {
 		opacity: 1;
+		
 	}
 
 	#header .header-nav.header-nav-links nav > ul > li > a.active, #header .header-nav.header-nav-line nav > ul > li > a.active {
