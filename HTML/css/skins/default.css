@@ -3974,100 +3974,100 @@ html[dir="rtl"] #header .tip-light:before {
 
 @media (min-width: 992px) {
 	#header .header-nav-main nav > ul > li > a {
-		color: #0088CC;
+		color: brown;
 	}
 
 	#header .header-nav-main nav > ul > li.open > a,
 	#header .header-nav-main nav > ul > li:hover > a {
-		background: #0088CC;
+		background: brown;
 	}
 
 	#header .header-nav-main nav > ul > li.dropdown .dropdown-menu {
-		border-top-color: #0088CC;
+		border-top-color: brown;
 	}
 
 	#header .header-nav-main nav > ul > li.dropdown.open > a:before,
 	#header .header-nav-main nav > ul > li.dropdown:hover > a:before {
-		border-bottom-color: #0088CC;
+		border-bottom-color: brown;
 	}
 
 	#header .header-nav-main nav > ul > li.dropdown-mega-signin .dropdown-menu {
-		border-top-color: #0088CC;
+		border-top-color: brown;
 	}
 
 	#header .header-nav-main nav > ul > li.dropdown-mega-signin .dropdown-menu li a {
-		color: #0088CC;
+		color: brown;
 	}
 
 	#header .header-nav-main nav > ul:not(:hover) > li > a.active {
-		background-color: #0088CC;
+		background-color: brown;
 		color: #FFF;
 	}
 
 	#header .header-nav.header-nav-stripe nav > ul > li:hover > a,
 	#header .header-nav.header-nav-stripe nav > ul > li.open > a {
-		background-color: #0088CC;
+		background-color: brown;
 	}
 
 	#header .header-nav.header-nav-stripe nav > ul:not(:hover) > li > a.active {
-		background-color: #0088CC;
+		background-color: brown;
 	}
 
 	#header .header-nav.header-nav-stripe nav > ul:hover > li > a.active {
-		color: #0088CC;
+		color: brown;
 	}
 
 	#header .header-nav.header-nav-links nav > ul li:hover > a {
-		color: #0088CC;
+		color: brown;
 	}
 
 	#header .header-nav.header-nav-links nav > ul:not(:hover) > li > a.active {
-		color: #0088CC;
+		color: brown;
 	}
 
 	#header .header-nav.header-nav-links.header-nav-links-vertical-slide nav ul li.dropdown .dropdown-menu::-webkit-scrollbar-thumb {
-		background: #0088CC !important;
+		background: brown !important;
 	}
 
 	#header .header-nav.header-nav-line nav > ul li:hover > a {
-		color: #0088CC;
+		color: brown;
 	}
 
 	#header .header-nav.header-nav-line nav > ul li:hover > a:before {
-		background: #0088CC;
+		background: brown;
 	}
 
 	#header .header-nav.header-nav-line nav > ul:not(:hover) li > a.active {
-		color: #0088CC;
+		color: brown;
 	}
 
 	#header .header-nav.header-nav-line nav > ul:not(:hover) li > a.active:before {
-		background: #0088CC;
+		background: brown;
 	}
 
 	#header .header-nav-main.header-nav-main-slide nav > ul > li.open > span > a,
 	#header .header-nav-main.header-nav-main-slide nav > ul > li:hover > span > a {
-		color: #0088CC;
+		color: brown;
 	}
 
 	#header .header-nav-main.header-nav-main-slide nav > ul:not(:hover) > li > span > a.active {
-		color: #0088CC;
+		color: brown;
 	}
 
 	html.side-header #header.side-header .header-nav-main nav > ul li.dropdown.open > .dropdown-menu,
 	html.side-header #header.side-header .header-nav-main nav > ul li.dropdown:hover > .dropdown-menu {
-		border-left-color: #0088CC;
+		border-left-color: brown;
 	}
 
 	html.side-header-right #header.side-header .header-nav-main nav > ul li.dropdown.open > .dropdown-menu,
 	html.side-header-right #header.side-header .header-nav-main nav > ul li.dropdown:hover > .dropdown-menu {
-		border-right-color: #0088CC;
+		border-right-color: brown;
 	}
 }
 
 @media (min-width: 992px) {
 	html #header .header-nav .header-nav-main nav > ul > li.dropdown-full-color.dropdown-primary .dropdown-menu {
-		background-color: #0088CC;
+		background-color: brown;
 	}
 
 	html #header .header-nav .header-nav-main nav > ul > li.dropdown-full-color.dropdown-primary .dropdown-menu li a {
